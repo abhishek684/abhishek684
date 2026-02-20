@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Web+Developer;React+Developer;Node.js+Backend+Developer;Building+Real+World+Projects" />
+
 # Hi, I'm Abhishek 👋  
 ### 💻 Full Stack Web Developer | React | Node.js
 
@@ -16,6 +18,16 @@ I build responsive web applications, backend APIs, and real-world problem-solvin
 ---
 
 ## 🛠️ Tech Stack
+## 🚀 Skills
+
+![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-VersionControl-red?style=for-the-badge&logo=git)
 
 ### 🌐 Frontend
 - HTML5
@@ -49,6 +61,15 @@ I build responsive web applications, backend APIs, and real-world problem-solvin
 🔹 Node.js REST APIs  
 
 🚀 More real-world projects coming soon…
+
+---
+## 📈 GitHub Stats
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek684&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek684&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abhishek684&theme=tokyonight)
 
 ---
 
