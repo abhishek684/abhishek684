@@ -52,22 +52,22 @@ I build responsive web applications, backend APIs, and real-world problem-solvin
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Project
 
-🔹 Portfolio Website  
-🔹 Restaurant Website  
-🔹 School Management System  
-🔹 Full Stack Web Applications  
-🔹 Node.js REST APIs  
+### 🎓 Amity University Website
 
-🚀 More real-world projects coming soon…
+A responsive university website built using HTML, CSS, and JavaScript.  
+This project focuses on clean UI, responsive design, and real-world website structure.
+
+🔹 Tech Used: HTML | CSS | JavaScript  
+🔹 Type: Frontend Project  
+🔹 Live Demo: https://abhishek684.github.io/AmityUniversity/  
+🔹 GitHub Repo: https://github.com/abhishek684/AmityUniversity  
+
+🚀 More full-stack projects coming soon...
 
 ---
 ## 📈 GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek684&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek684&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhishek684&theme=tokyonight)
 
