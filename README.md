@@ -54,6 +54,19 @@ I build responsive web applications, backend APIs, and real-world problem-solvin
 
 ## 🚀 Featured Project
 
+### 🎯 Habit Flow
+
+A full-stack, modern habit tracking application built with React, Node.js, and Supabase. Features include custom categories, analytics heatmaps, dark mode support, and streak tracking.
+
+🔹Tech used: React | Node.js | Express | Database
+
+🔹Type: Full Stack
+
+🔹Live Demo: https://habitflowwebapp.netlify.app/
+
+🔹GitHub Repo: https://github.com/abhishek684/Habit-Flow-
+
+
 ### 🎓 Amity University Website
 
 A responsive university website built using HTML, CSS, and JavaScript.  
